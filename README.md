@@ -1,5 +1,5 @@
 # Hi there 👋
-### what's up man.
+### what's up?
 
 <!--
 **Z446C/Z446C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
