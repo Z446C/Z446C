@@ -1,7 +1,7 @@
-# Welcome to my github! 
+# Hi there!✨
 
 <!--
-**Z446C/Z446C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Z446C/Z446C** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Z446C&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Z446C&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
+  <a href="https://github.com/Z446C" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Z446C&title_color=333&text_color=777" alt="Otm-Z's Stats" >
   </a>
 </p>
