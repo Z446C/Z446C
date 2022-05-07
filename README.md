@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 <p align="center">
   <a href="https://github.com/Z446C" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Z446C&title_color=333&text_color=777" alt="Otm-Z's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Z446C&theme=dark&show_icons=true" >
   </a>
 </p>
